@@ -1,0 +1,22 @@
+GNU Octave, version 3.8.0
+Copyright (C) 2013 John W. Eaton and others.
+This is free software; see the source code for copying conditions.
+There is ABSOLUTELY NO WARRANTY; not even for MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  For details, type 'warranty'.
+
+Octave was configured for "x86_64-unknown-linux-gnu".
+
+Additional information about Octave is available at http://www.octave.org.
+
+Please contribute if you find this software useful.
+For more information, visit http://www.octave.org/get-involved.html
+
+Read http://www.octave.org/bugs.html to learn how to submit bug reports.
+For information about changes from previous versions, type 'news'.
+
+warning: function /home/hwr/tagme/codes/DeepLearnToolbox-master/util/randp.m shadows a built-in function
+warning: function /home/hwr/tagme/codes/DeepLearnToolbox-master/util/zscore.m shadows a core library function
+warning: load: file found in load path
+epoch 1/1
+Elapsed time is 177.656 seconds.
+error: can't perform indexing operations for <unknown type> type
