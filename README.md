@@ -1,4 +1,4 @@
-# drambuie by Sachin Vernekar and Dr.Deepu Vijayasenan
+# QRS Peak detection by Sachin Vernekar and Dr.Deepu Vijayasenan
 
 This is the work that was done as a part of Major Project when I was a B.Tech student at NITK Surathkal in 2014. This was for physionet 2014 challenge http://physionet.org/challenge/2014/
 Heart beat detection in Multimodal data using Deep learning(simple stuff but was cool) and XGBoost(didn't really beat the performance of simple logistic regression).
